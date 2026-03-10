@@ -1,9 +1,6 @@
 // speedtest
 cdn.ziffstatic.com
 
-// whatismyipaddress
-whatismyipaddress.com
-
 // myip
 myip.com
 
