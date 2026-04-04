@@ -78,3 +78,6 @@ roblox.com
 rbxcdn.com
 robloxdev.com
 rbxinfra.net
+
+// v2raytun
+v2raytun.com
