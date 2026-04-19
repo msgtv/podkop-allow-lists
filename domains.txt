@@ -81,3 +81,6 @@ rbxinfra.net
 
 // v2raytun
 v2raytun.com
+
+// mobatek (MobaXterm)
+mobatek.net
