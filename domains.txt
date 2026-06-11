@@ -74,10 +74,10 @@ huggingface.co
 telegram-mini-apps.com
 
 // Roblox
-roblox.com
-rbxcdn.com
-robloxdev.com
-rbxinfra.net
+//roblox.com
+//rbxcdn.com
+//robloxdev.com
+//rbxinfra.net
 
 // v2raytun
 v2raytun.com
